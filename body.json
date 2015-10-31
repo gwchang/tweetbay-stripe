@@ -1,0 +1,10 @@
+{
+    name: "dog"
+    caption: "hello"
+    description: "world"
+    url: "http://media.mydogspace.com.s3.amazonaws.com/wp-content/uploads/2013/08/puppy-500x350.jpg"
+    active: "true"
+    shippable: "true"
+    images:
+    "http://media.mydogspace.com.s3.amazonaws.com/wp-content/uploads/2013/08/puppy-500x350.jpg"
+}

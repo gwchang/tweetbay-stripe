@@ -1,0 +1,81 @@
+{
+  "id": "prod_7G2zm748KbhIax",
+  "object": "product",
+  "active": true,
+  "attributes": [
+    "size",
+    "gender",
+    "color"
+  ],
+  "caption": null,
+  "created": 1446188538,
+  "description": "Super awesome, one-of-a-kind t-shirt",
+  "images": [
+    "http://petguide.com.vsassets.com/wp-content/uploads/2013/02/labrador-retriever-2.jpg",
+    "http://cutebabywallpapers.com/wp-content/uploads/2015/04/fox_baby_wallpaper.jpg",
+    "http://www.critterbabies.com/wp-content/uploads/2014/01/baby-panda-3.jpg"
+  ],
+  "livemode": true,
+  "metadata": {},
+  "name": "Lab",
+  "package_dimensions": null,
+  "shippable": true,
+  "skus": {
+    "object": "list",
+    "data": [
+      {
+        "id": "sku_7G2zKt2d1nVSKN",
+        "object": "sku",
+        "active": true,
+        "attributes": {
+          "color": "Cyan",
+          "gender": "Unisex",
+          "size": "Medium"
+        },
+        "created": 1446188539,
+        "currency": "usd",
+        "image": null,
+        "inventory": {
+          "quantity": 500,
+          "type": "finite",
+          "value": null
+        },
+        "livemode": true,
+        "metadata": {},
+        "package_dimensions": null,
+        "price": 1500,
+        "product": "prod_7G2zm748KbhIax",
+        "updated": 1446188539
+      },
+      {
+        "id": "sku_7G2zpRd3P2LlH1",
+        "object": "sku",
+        "active": true,
+        "attributes": {
+          "color": "Cyan",
+          "gender": "Unisex",
+          "size": "Large"
+        },
+        "created": 1446188539,
+        "currency": "usd",
+        "image": null,
+        "inventory": {
+          "quantity": 400,
+          "type": "finite",
+          "value": null
+        },
+        "livemode": true,
+        "metadata": {},
+        "package_dimensions": null,
+        "price": 1500,
+        "product": "prod_7G2zm748KbhIax",
+        "updated": 1446188539
+      }
+    ],
+    "has_more": false,
+    "total_count": 2,
+    "url": "/v1/skus?product=prod_7G2zm748KbhIax\u0026active=true"
+  },
+  "updated": 1446188538,
+  "url": null
+}

@@ -1,0 +1,26 @@
+{
+  "id": "prod_7FiHkzNgsdBzpC",
+  "object": "product",
+  "active": true,
+  "attributes": [
+    "size",
+    "gender",
+    "color"
+  ],
+  "caption": null,
+  "created": 1446111478,
+  "description": "Super awesome, one-of-a-kind t-shirt",
+  "images": [
+    "http://petguide.com.vsassets.com/wp-content/uploads/2013/02/labrador-retriever-2.jpg",
+    "http://cutebabywallpapers.com/wp-content/uploads/2015/04/fox_baby_wallpaper.jpg",
+    "http://www.critterbabies.com/wp-content/uploads/2014/01/baby-panda-3.jpg"
+  ],
+  "livemode": true,
+  "metadata": {},
+  "name": "Lab",
+  "package_dimensions": null,
+  "shippable": true,
+  "skus": {"object":"list","data":[],"has_more":false,"total_count":0,"url":"/v1/skus?product=prod_7FiHkzNgsdBzpC&active=true"},
+  "updated": 1446111478,
+  "url": null
+}
